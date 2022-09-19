@@ -38,7 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'djoser',
-    'debug_toolbar'
+    'debug_toolbar',
+    'core',
+    'survey'
 ]
 
 MIDDLEWARE = [
@@ -162,3 +164,5 @@ LOGGING = {
         }
     }
 }
+
+AUTH_USER_MODEL = 'core.User'
