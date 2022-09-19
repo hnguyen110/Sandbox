@@ -1,0 +1,11 @@
+2022-09-19 15:58:26,093 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-19 15:59:05,671 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/sandbox/settings.py changed, reloading.
+2022-09-19 15:59:06,729 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-19 15:59:17,004 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-19 16:00:29,117 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-19 16:01:27,860 (WARNING) - django.request - Not Found: /
+2022-09-19 16:01:28,062 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-19 16:01:35,949 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-19 16:01:54,608 (WARNING) - django.request - Unauthorized: /auth/users/
+2022-09-19 16:02:21,170 (WARNING) - django.request - Bad Request: /auth/users/
+2022-09-19 16:02:38,171 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
