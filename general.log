@@ -1,132 +1,10 @@
-2022-09-19 15:58:26,093 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 15:59:05,671 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/sandbox/settings.py changed, reloading.
-2022-09-19 15:59:06,729 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 15:59:17,004 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 16:00:29,117 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 16:01:27,860 (WARNING) - django.request - Not Found: /
-2022-09-19 16:01:28,062 (WARNING) - django.request - Not Found: /favicon.ico
-2022-09-19 16:01:35,949 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
-2022-09-19 16:01:54,608 (WARNING) - django.request - Unauthorized: /auth/users/
-2022-09-19 16:02:21,170 (WARNING) - django.request - Bad Request: /auth/users/
-2022-09-19 16:02:38,171 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
-2022-09-19 16:09:36,470 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 16:09:38,008 (WARNING) - django.request - Not Found: /
-2022-09-19 16:09:44,511 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
-2022-09-19 16:10:37,223 (WARNING) - django.request - Not Found: /
-2022-09-19 16:10:44,535 (WARNING) - django.request - Unauthorized: /auth/users/
-2022-09-19 16:11:36,066 (WARNING) - django.request - Unauthorized: /auth/users/
-2022-09-19 16:11:39,102 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
-2022-09-19 16:59:19,876 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:18:19,587 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:18:21,522 (WARNING) - django.request - Not Found: /
-2022-09-19 17:25:27,560 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
-2022-09-19 17:25:28,367 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:25:34,345 (WARNING) - django.request - Not Found: /
-2022-09-19 17:26:28,871 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:26:29,719 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:31:27,987 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:31:28,768 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:31:47,460 (WARNING) - django.request - Not Found: /
-2022-09-19 17:31:54,153 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
-2022-09-19 17:41:20,149 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:41:20,973 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:41:29,930 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:41:30,723 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:41:32,266 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:41:33,048 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:41:35,646 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:41:36,522 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:41:39,072 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:41:39,888 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:41:47,847 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:41:48,872 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:42:32,273 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:42:33,215 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:43:15,392 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:43:16,274 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:45:14,658 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey_serializer.py changed, reloading.
-2022-09-19 17:45:15,455 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:45:56,673 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey_serializer.py changed, reloading.
-2022-09-19 17:45:57,391 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:46:22,432 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:46:23,222 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 17:46:35,350 (WARNING) - django.request - Unauthorized: /surveys/
-2022-09-19 17:47:26,035 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 17:47:26,813 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:00:14,236 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:00:15,066 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:00:23,020 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:00:23,820 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:00:45,494 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:00:46,457 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:00:55,454 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:00:56,294 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:04:31,366 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:04:32,232 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:04:36,361 (WARNING) - django.request - Bad Request: /surveys/
-2022-09-19 18:05:14,451 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:05:15,358 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:05:22,250 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:05:23,004 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:07:45,777 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:07:46,682 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:10:04,271 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:10:05,272 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:10:32,535 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:10:33,270 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:11:44,313 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:11:45,169 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:11:56,200 (WARNING) - django.request - Unauthorized: /surveys/1/
-2022-09-19 18:12:31,705 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:12:32,603 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:15:10,830 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:15:11,534 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:15:49,456 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:15:50,270 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:16:50,897 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:16:51,641 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:17:10,727 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:18:07,409 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:18:08,205 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:18:28,012 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:18:28,930 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:19:01,439 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:19:02,218 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:19:57,205 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:19:58,122 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:19:59,683 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:20:00,583 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:20:22,439 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:20:23,185 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:20:41,713 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:20:42,501 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:21:06,405 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:21:07,187 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:21:27,911 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:21:28,819 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:21:33,512 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:21:34,247 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:21:35,766 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:21:36,663 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:21:38,077 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:21:39,016 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:21:41,652 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:21:42,502 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:21:45,089 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:21:45,941 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:22:00,303 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:22:01,161 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:22:19,828 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:22:20,504 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:22:25,243 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:22:26,164 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:23:27,564 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:23:28,483 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:23:50,384 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/create_survey_serializer.py changed, reloading.
-2022-09-19 18:23:51,150 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:24:56,784 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:24:57,451 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:26:05,580 (ERROR) - django.request - Internal Server Error: /surveys/
+2022-09-20 16:32:40,658 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:33:47,440 (WARNING) - django.request - Not Found: /
+2022-09-20 16:33:47,661 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-20 16:33:56,417 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-20 16:44:23,321 (WARNING) - django.request - Not Found: /
+2022-09-20 16:44:48,890 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 16:44:58,137 (ERROR) - django.request - Internal Server Error: /profile/
 Traceback (most recent call last):
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
@@ -144,14 +22,19 @@ Traceback (most recent call last):
     raise exc
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
-    serializer = self.get_serializer(queryset, many=True)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 109, in get_serializer
-    kwargs.setdefault('context', self.get_serializer_context())
-  File "/Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py", line 17, in get_serializer_context
-    'survey_id': self.kwargs['pk']
-KeyError: 'pk'
-2022-09-19 18:26:08,784 (ERROR) - django.request - Internal Server Error: /surveys/
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 14, in get_queryset
+    return Profile.objects.get(user=self.request.user)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 650, in get
+    raise self.model.DoesNotExist(
+core.models.profile.Profile.DoesNotExist: Profile matching query does not exist.
+2022-09-20 16:46:49,185 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:46:50,043 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:47:04,738 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 16:47:10,084 (ERROR) - django.request - Internal Server Error: /profile/
 Traceback (most recent call last):
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
@@ -169,19 +52,20 @@ Traceback (most recent call last):
     raise exc
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
-    serializer = self.get_serializer(queryset, many=True)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 109, in get_serializer
-    kwargs.setdefault('context', self.get_serializer_context())
-  File "/Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py", line 17, in get_serializer_context
-    'survey_id': self.kwargs['pk']
-KeyError: 'pk'
-2022-09-19 18:29:56,997 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:29:57,892 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:30:08,984 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:30:09,766 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:30:13,725 (WARNING) - django.request - Unauthorized: /surveys/
-2022-09-19 18:30:32,061 (ERROR) - django.request - Internal Server Error: /surveys/
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 15, in get_queryset
+    return Profile.objects.get(user=self.request.user)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 650, in get
+    raise self.model.DoesNotExist(
+core.models.profile.Profile.DoesNotExist: Profile matching query does not exist.
+2022-09-20 16:47:27,900 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:47:28,729 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:48:14,182 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:48:15,068 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:48:16,963 (ERROR) - django.request - Internal Server Error: /profile/
 Traceback (most recent call last):
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
@@ -199,28 +83,22 @@ Traceback (most recent call last):
     raise exc
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
-    serializer = self.get_serializer(queryset, many=True)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 109, in get_serializer
-    kwargs.setdefault('context', self.get_serializer_context())
-  File "/Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py", line 17, in get_serializer_context
-    'survey_id': self.kwargs['pk'] if not None else 0
-KeyError: 'pk'
-2022-09-19 18:42:48,843 (WARNING) - django.request - Unauthorized: /surveys/1/
-2022-09-19 18:43:03,361 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:43:04,242 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:43:05,010 (WARNING) - django.request - Unauthorized: /surveys/1/
-2022-09-19 18:45:21,997 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/modify_survey_serializer.py changed, reloading.
-2022-09-19 18:45:22,797 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:46:32,915 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/modify_survey_serializer.py changed, reloading.
-2022-09-19 18:46:33,741 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:47:51,352 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:47:52,185 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:47:57,888 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:47:58,717 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:48:06,572 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:48:07,449 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:48:58,862 (ERROR) - django.request - Internal Server Error: /surveys/
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 15, in get_queryset
+    return Profile.objects.first(user=self.request.user)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+TypeError: QuerySet.first() got an unexpected keyword argument 'user'
+2022-09-20 16:48:54,051 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:48:54,732 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:49:00,538 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:49:01,485 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:49:28,845 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:49:29,539 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:49:30,315 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 16:49:47,518 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-20 16:50:50,817 (ERROR) - django.request - Internal Server Error: /profile/
 Traceback (most recent call last):
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
@@ -238,52 +116,1037 @@ Traceback (most recent call last):
     raise exc
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
     response = handler(request, *args, **kwargs)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
-    self.perform_create(serializer)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'Profile' object is not iterable
+2022-09-20 16:50:52,658 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'Profile' object is not iterable
+2022-09-20 16:50:54,337 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'Profile' object is not iterable
+2022-09-20 16:50:57,925 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:50:58,648 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:52:02,433 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:52:03,331 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:52:05,516 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'bool' object has no attribute 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `first_name` on serializer `BaseProfileSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `bool` instance.
+Original exception text was: 'bool' object has no attribute 'first_name'.
+2022-09-20 16:52:11,531 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'bool' object has no attribute 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `first_name` on serializer `BaseProfileSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `bool` instance.
+Original exception text was: 'bool' object has no attribute 'first_name'.
+2022-09-20 16:52:32,877 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:52:33,724 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:52:47,066 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 16:52:47,850 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 16:52:49,065 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'Profile' object is not iterable
+2022-09-20 16:54:54,912 (WARNING) - django.request - Not Found: /me
+2022-09-20 16:55:01,219 (WARNING) - django.request - Unauthorized: /auth/
+2022-09-20 16:55:06,161 (WARNING) - django.request - Not Found: /auth/me
+2022-09-20 16:56:59,189 (WARNING) - django.request - Not Found: /users/me/
+2022-09-20 16:57:15,270 (WARNING) - django.request - Unauthorized: /auth/users/me/
+2022-09-20 16:57:23,004 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-20 17:12:18,341 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:12:19,166 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:12:49,728 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:12:50,524 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:15:22,369 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:15:23,371 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:15:28,050 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:15:28,780 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:15:53,752 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:15:54,604 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:16:17,406 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:16:18,410 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:16:47,667 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:16:48,602 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:17:31,848 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:17:32,666 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:18:10,454 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:18:11,195 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:18:28,668 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:18:29,529 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:18:36,393 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:18:37,351 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:18:47,470 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:18:48,420 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:18:59,545 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:19:00,212 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:20:35,422 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:23:33,180 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:23:36,156 (WARNING) - django.request - Not Found: /
+2022-09-20 17:23:44,927 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 17:23:53,747 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-20 17:24:13,031 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 208, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view RetrieveProfileView to be called with a URL keyword argument named "pk". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+2022-09-20 17:24:42,077 (WARNING) - django.request - Not Found: /profile/1
+2022-09-20 17:24:46,026 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 208, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 88, in get_object
+    assert lookup_url_kwarg in self.kwargs, (
+AssertionError: Expected view RetrieveProfileView to be called with a URL keyword argument named "pk". Fix your URL conf, or set the `.lookup_field` attribute on the view correctly.
+2022-09-20 17:26:00,712 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:26:01,369 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:26:18,941 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:26:19,595 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:27:10,137 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:27:11,027 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:27:14,592 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:27:15,575 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:27:22,361 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:27:23,260 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:27:32,160 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:27:33,044 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:28:16,119 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:28:16,913 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:28:20,432 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:28:21,392 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:28:34,608 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:28:35,435 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:28:40,112 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:28:41,039 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:28:43,568 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:28:44,286 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:28:47,874 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:28:48,978 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:28:51,516 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:28:52,372 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:29:00,221 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:29:01,133 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:29:05,885 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:29:06,653 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:29:12,356 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:29:13,043 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:29:41,175 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:29:42,154 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:29:51,130 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:29:52,110 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:30:13,905 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:30:14,623 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:30:18,194 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:30:18,835 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:30:23,437 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:30:24,080 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:30:28,650 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:30:29,256 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:30:37,055 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:30:37,852 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:30:51,015 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:30:51,765 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:31:03,980 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:31:04,946 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:31:12,890 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:31:13,677 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:31:19,445 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:31:20,302 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:31:29,244 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:31:29,983 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:10,034 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:10,904 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:18,864 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:19,851 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:24,565 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:25,409 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:32,301 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:33,003 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:36,651 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:37,434 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:40,026 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:40,739 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:44,377 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:45,023 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:32:52,965 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:32:53,660 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:33:27,315 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/urls.py changed, reloading.
+2022-09-20 17:33:28,253 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:33:42,141 (WARNING) - django.request - Not Found: /
+2022-09-20 17:33:45,616 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 17:33:53,278 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-20 17:34:08,662 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 17:34:11,410 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 17:35:09,526 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:35:10,310 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 17:35:22,448 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 17:35:37,582 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 17:35:38,237 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:14:53,875 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:14:56,088 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:16:05,346 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:16:05,962 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:16:16,910 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:16:17,483 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:16:24,205 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:16:24,802 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:21:32,980 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:21:33,548 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:24:52,784 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:24:53,307 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:25:26,782 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:25:27,508 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:26:15,771 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:26:16,336 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:27:58,254 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:27:58,877 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:33:17,272 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:33:18,095 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:33:25,892 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:33:26,629 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:01,030 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:01,777 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:05,265 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:05,847 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:13,674 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:14,201 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:16,642 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:17,282 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:21,757 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:22,516 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:27,158 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:27,941 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:29,204 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:29,757 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:34,343 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:35,046 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:37,495 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:38,178 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:42,771 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:43,345 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:34:54,268 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:34:54,698 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:35:16,945 (WARNING) - django.request - Not Found: /
+2022-09-20 21:35:27,270 (WARNING) - django.request - Unauthorized: /auth/users/
+2022-09-20 21:35:55,840 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-20 21:36:16,209 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 21:36:25,006 (WARNING) - django.request - Not Found: /profile/
+2022-09-20 21:37:25,720 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 21:37:41,965 (WARNING) - django.request - Not Found: /users
+2022-09-20 21:38:04,769 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-20 21:38:49,224 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 19, in post
+    profile = Profile.objects.get(user=self.request.user)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 650, in get
+    raise self.model.DoesNotExist(
+core.models.profile.Profile.DoesNotExist: Profile matching query does not exist.
+2022-09-20 21:40:54,762 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:42:05,364 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:42:21,310 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-09-20 21:43:48,998 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:43:49,989 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:43:52,990 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:43:55,700 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 21:44:36,477 (WARNING) - django.request - Bad Request: /profile/
+2022-09-20 21:45:17,390 (WARNING) - django.request - Bad Request: /profile/
+2022-09-20 21:46:14,336 (WARNING) - django.request - Bad Request: /profile/
+2022-09-20 21:46:29,889 (WARNING) - django.request - Bad Request: /profile/
+2022-09-20 21:47:54,264 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-09-20 21:48:42,715 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:48:43,698 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:48:59,436 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:49:00,314 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:49:53,106 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:53:14,867 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:53:15,706 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:53:54,583 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:53:55,314 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:54:00,840 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:54:26,556 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 23, in post
+    request.data.user = self.request.user
+AttributeError: 'dict' object has no attribute 'user'
+2022-09-20 21:55:32,088 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:55:32,687 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:55:36,551 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 21:55:54,609 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 26, in post
     serializer.save()
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
     self.instance = self.create(validated_data)
-  File "/Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/modify_survey_serializer.py", line 27, in create
-    survey = Survey.objects.create(name=name, description=description, user=self.context['user'])
-KeyError: 'user'
-2022-09-19 18:49:20,971 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
-2022-09-19 18:49:21,900 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:50:06,670 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:50:12,201 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:50:14,516 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:50:24,886 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:51:06,184 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:51:12,447 (ERROR) - django.request - Internal Server Error: /surveys/2
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+2022-09-20 21:56:20,186 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:56:20,885 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:56:33,824 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+
+The above exception was the direct cause of the following exception:
+
 Traceback (most recent call last):
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/utils/deprecation.py", line 135, in __call__
-    response = self.process_request(request)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/middleware/common.py", line 54, in process_request
-    path = self.get_full_path_with_slash(request)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/middleware/common.py", line 88, in get_full_path_with_slash
-    raise RuntimeError(
-RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/surveys/2/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
-2022-09-19 18:51:21,592 (WARNING) - django.request - Unauthorized: /surveys/2/
-2022-09-19 18:51:59,349 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:52:21,671 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/modify_survey_serializer.py changed, reloading.
-2022-09-19 18:52:22,548 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
-2022-09-19 18:52:23,687 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:52:24,446 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:52:25,101 (WARNING) - django.request - Not Found: /surveys/2/
-2022-09-19 18:52:27,122 (ERROR) - django.request - Internal Server Error: /surveys/1
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 26, in post
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+2022-09-20 21:57:05,040 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:57:06,000 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:57:07,784 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+
+The above exception was the direct cause of the following exception:
+
 Traceback (most recent call last):
   File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/utils/deprecation.py", line 135, in __call__
-    response = self.process_request(request)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/middleware/common.py", line 54, in process_request
-    path = self.get_full_path_with_slash(request)
-  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/middleware/common.py", line 88, in get_full_path_with_slash
-    raise RuntimeError(
-RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/surveys/1/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
-2022-09-19 18:52:30,617 (WARNING) - django.request - Bad Request: /surveys/1/
-2022-09-19 18:53:03,317 (WARNING) - django.request - Not Found: /surveys/1/
-2022-09-19 18:53:11,491 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/modify_survey_serializer.py changed, reloading.
-2022-09-19 18:53:12,270 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 26, in post
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+2022-09-20 21:57:09,329 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 26, in post
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+2022-09-20 21:57:24,564 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:57:25,056 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:57:29,896 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 27, in post
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+2022-09-20 21:57:40,382 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:57:40,998 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:57:42,481 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 27, in post
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+2022-09-20 21:57:49,768 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:57:53,443 (ERROR) - django.request - Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py", line 27, in post
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
+2022-09-20 21:58:29,805 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:58:30,344 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:58:39,658 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 21:59:58,658 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 21:59:59,592 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:00:02,194 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:01:38,596 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:01:40,683 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 22:01:50,972 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:06:22,644 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:06:43,533 (WARNING) - django.request - Bad Request: /profile/
+2022-09-20 22:06:48,463 (WARNING) - django.request - Bad Request: /profile/
+2022-09-20 22:07:00,659 (WARNING) - django.request - Bad Request: /profile/
+2022-09-20 22:07:11,496 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-20 22:08:00,377 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 22:08:01,090 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:10:11,034 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 22:10:11,626 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:10:31,072 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 22:10:31,538 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:10:38,247 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 22:10:38,706 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:10:48,593 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/views/profile_view_set.py changed, reloading.
+2022-09-20 22:10:49,402 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-20 22:11:23,242 (WARNING) - django.request - Not Found: /profile/
+2022-09-20 22:11:40,909 (WARNING) - django.request - Not Found: /profile/

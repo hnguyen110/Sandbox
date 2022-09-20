@@ -1,7 +1,7 @@
 from rest_framework.viewsets import ModelViewSet
 
+from permissions.admin_or_read_only import IsAdminOrReadOnly
 from survey.models.survey import Survey
-from survey.permissions.admin_or_read_only import IsAdminOrReadOnly
 from survey.serializers.survey.base_survey_serializer import BaseSurveySerializer
 from survey.serializers.survey.modify_survey_serializer import ModifySurveySerializer
 
