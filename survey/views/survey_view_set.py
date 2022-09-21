@@ -1,14 +1,14 @@
 from rest_framework.viewsets import ModelViewSet
 
+from permissions.admin_or_read_only import IsAdminOrReadOnly
 from survey.models.survey import Survey
-from survey.permissions.admin_or_read_only import IsAdminOrReadOnly
 from survey.serializers.survey.base_survey_serializer import BaseSurveySerializer
 from survey.serializers.survey.modify_survey_serializer import ModifySurveySerializer
 
 
 class SurveyViewSet(ModelViewSet):
     http_method_names = ['post', 'get', 'put', 'patch', 'delete', 'head', 'options']
-    queryset = Survey.objects.all()
+    queryset = Survey.objects.prefetch_related('questions__solutions').all()
     permission_classes = [IsAdminOrReadOnly]
 
     def get_serializer_context(self):

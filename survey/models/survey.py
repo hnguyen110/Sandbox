@@ -5,4 +5,4 @@ from django.db import models
 class Survey(models.Model):
     name = models.CharField(max_length=255, null=False)
     description = models.TextField()
-    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='surveys')
+    owner = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='surveys')
