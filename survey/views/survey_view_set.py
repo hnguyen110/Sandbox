@@ -8,7 +8,7 @@ from survey.serializers.survey.modify_survey_serializer import ModifySurveySeria
 
 class SurveyViewSet(ModelViewSet):
     http_method_names = ['post', 'get', 'put', 'patch', 'delete', 'head', 'options']
-    queryset = Survey.objects.all()
+    queryset = Survey.objects.prefetch_related('questions__solutions').all()
     permission_classes = [IsAdminOrReadOnly]
 
     def get_serializer_context(self):

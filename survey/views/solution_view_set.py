@@ -10,6 +10,9 @@ class SolutionViewSet(ModelViewSet):
     permission_classes = [IsAuthenticated]
     serializer_class = BaseSolutionSerializer
 
+    def get_queryset(self):
+        return Solution.objects.filter(question_id=self.kwargs['question_pk'])
+
     def get_serializer_context(self):
         return {
             'question_id': self.kwargs['question_pk']

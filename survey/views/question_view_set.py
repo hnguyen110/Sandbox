@@ -6,9 +6,11 @@ from survey.serializers.question.base_question_serializer import BaseQuestionSer
 
 
 class QuestionViewSet(ModelViewSet):
-    queryset = Question.objects.all()
     permission_classes = [IsAuthenticated]
     serializer_class = BaseQuestionSerializer
+
+    def get_queryset(self):
+        return Question.objects.prefetch_related('solutions').filter(survey_id=self.kwargs['survey_pk'])
 
     def get_serializer_context(self):
         return {

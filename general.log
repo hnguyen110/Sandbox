@@ -1347,3 +1347,315 @@ TypeError: 'dict' object is not callable
 2022-09-21 01:15:00,827 (WARNING) - django.request - Not Found: /surveys/1/questions/1/solutions/1/
 2022-09-21 01:15:25,400 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/migrations/0001_initial.py changed, reloading.
 2022-09-21 01:15:26,031 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:08:34,524 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:16:41,322 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:16:42,088 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:16:50,981 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:16:51,536 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:17:00,187 (WARNING) - django.request - Not Found: /
+2022-09-21 14:17:00,327 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-21 14:17:19,661 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:17:35,831 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:17:54,351 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:17:56,807 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:17:57,539 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:18:04,052 (WARNING) - django.request - Not Found: /participants/
+2022-09-21 14:18:34,388 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:18:35,056 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:18:42,426 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:19:19,310 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_participant_view_set.py changed, reloading.
+2022-09-21 14:19:19,801 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:19:22,306 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:19:26,644 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:19:32,189 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:19:47,273 (WARNING) - django.request - Not Found: /surveys/participants/1
+2022-09-21 14:19:52,044 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:20:04,928 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_participant_view_set.py changed, reloading.
+2022-09-21 14:20:05,500 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:20:49,916 (WARNING) - django.request - Not Found: /surveys/participant/
+2022-09-21 14:20:53,443 (WARNING) - django.request - Not Found: /surveys/participan/
+2022-09-21 14:22:47,703 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:23:21,836 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:23:24,226 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:25:30,350 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:25:30,967 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:26:08,865 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:26:09,600 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:26:18,549 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:26:19,100 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:26:27,452 (WARNING) - django.request - Not Found: /surveys/aaa
+2022-09-21 14:26:38,063 (WARNING) - django.request - Not Found: /surveys/aaa/
+2022-09-21 14:26:43,977 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:26:44,485 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:27:07,401 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:27:23,329 (WARNING) - django.request - Not Found: /surveys/participants/
+2022-09-21 14:27:33,143 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:27:33,688 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:27:37,536 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:27:39,613 (WARNING) - django.request - Unauthorized: /surveys/participants/
+2022-09-21 14:28:51,321 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/sandbox/urls.py changed, reloading.
+2022-09-21 14:28:51,851 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:29:00,717 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 14:29:01,473 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 14:29:05,767 (WARNING) - django.request - Not Found: /
+2022-09-21 14:29:18,345 (WARNING) - django.request - Unauthorized: /api/participants/
+2022-09-21 14:35:39,938 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:05:20,672 (WARNING) - django.request - Not Found: /
+2022-09-21 17:05:20,860 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-21 17:06:47,931 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 17:06:50,150 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:07:26,490 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 17:07:27,276 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:07:45,908 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 17:07:46,701 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:07:58,868 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 17:07:59,560 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:08:06,369 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 17:08:07,244 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:08:41,977 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 17:08:42,698 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:08:55,804 (WARNING) - django.request - Not Found: /api/surveys/1/participants/2/answers
+2022-09-21 17:09:23,554 (WARNING) - django.request - Not Found: /api/surveys/1/participants/2/answers
+2022-09-21 17:09:33,109 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:09:35,023 (WARNING) - django.request - Not Found: /api/surveys/1/participants/2/answers
+2022-09-21 17:09:35,767 (WARNING) - django.request - Not Found: /api/surveys/1/participants/2/answers
+2022-09-21 17:09:39,265 (WARNING) - django.request - Not Found: /api/surveys/1/participants/2/answers/
+2022-09-21 17:10:00,448 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 17:10:01,120 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:12:07,930 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-21 17:12:08,716 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:12:44,454 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-21 17:12:45,301 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:13:17,821 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-21 17:13:18,607 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:14:00,542 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-21 17:14:01,272 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:15:28,430 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/answer/base_answer_serializer.py changed, reloading.
+2022-09-21 17:15:29,145 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:15:37,045 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/answer/base_answer_serializer.py changed, reloading.
+2022-09-21 17:15:37,821 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:15:41,750 (ERROR) - django.request - Internal Server Error: /api/surveys/1/participants/2/answers/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 109, in get_serializer
+    kwargs.setdefault('context', self.get_serializer_context())
+  File "/Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py", line 16, in get_serializer_context
+    'question_id': self.kwargs['question_pk']
+KeyError: 'question_pk'
+2022-09-21 17:16:17,904 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-21 17:16:18,738 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:16:23,223 (ERROR) - django.request - Internal Server Error: /api/surveys/1/participants/2/answers/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 109, in get_serializer
+    kwargs.setdefault('context', self.get_serializer_context())
+  File "/Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py", line 18, in get_serializer_context
+    'question_id': self.kwargs['question_pk']
+KeyError: 'question_pk'
+2022-09-21 17:18:00,150 (ERROR) - django.request - Internal Server Error: /api/surveys/1/participants/2/answers/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 109, in get_serializer
+    kwargs.setdefault('context', self.get_serializer_context())
+  File "/Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py", line 18, in get_serializer_context
+    'question_id': self.kwargs['question_pk']
+KeyError: 'question_pk'
+2022-09-21 17:18:21,125 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-21 17:18:21,830 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:18:26,529 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/answer/base_answer_serializer.py changed, reloading.
+2022-09-21 17:18:27,175 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:18:29,718 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/answer/base_answer_serializer.py changed, reloading.
+2022-09-21 17:18:30,516 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:20:16,728 (WARNING) - django.request - Not Found: /api/surveys/1/
+2022-09-21 17:22:40,622 (WARNING) - django.request - Not Found: /api/surveys/2/answers/
+2022-09-21 17:25:25,209 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 17:25:26,038 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:25:33,948 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 17:25:34,623 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:26:05,898 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 17:26:06,728 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:26:11,417 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 17:26:12,145 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:32:13,052 (WARNING) - django.request - Not Found: /api/surveys/2/questions/2/
+2022-09-21 17:33:24,499 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/solution_view_set.py changed, reloading.
+2022-09-21 17:33:25,249 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:33:44,945 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/solution_view_set.py changed, reloading.
+2022-09-21 17:33:45,659 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:33:47,159 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/solution_view_set.py changed, reloading.
+2022-09-21 17:33:47,831 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:39:01,093 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:44:16,921 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/base_survey_serializer.py changed, reloading.
+2022-09-21 17:44:17,724 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:46:06,412 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/base_survey_serializer.py changed, reloading.
+2022-09-21 17:46:07,131 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:46:15,029 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/base_survey_serializer.py changed, reloading.
+2022-09-21 17:46:15,823 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:46:34,299 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/base_survey_serializer.py changed, reloading.
+2022-09-21 17:46:35,130 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:46:49,409 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/base_survey_serializer.py changed, reloading.
+2022-09-21 17:46:50,112 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:47:30,149 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/base_survey_serializer.py changed, reloading.
+2022-09-21 17:47:30,926 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:48:27,148 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 17:48:27,952 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:49:02,446 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 17:49:03,315 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:49:11,228 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 17:49:11,949 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:49:17,720 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 17:49:18,421 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:50:43,601 (WARNING) - django.request - Not Found: /api/surveys/2/solutions
+2022-09-21 17:52:42,548 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/solution.py changed, reloading.
+2022-09-21 17:52:43,335 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:53:05,155 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 17:53:06,054 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:55:23,812 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
+2022-09-21 17:55:24,658 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:55:39,003 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_view_set.py changed, reloading.
+2022-09-21 17:55:39,882 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 17:56:15,422 (WARNING) - django.request - Not Found: /api/surveys/1/
+2022-09-21 18:05:16,739 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/answer/base_answer_serializer.py changed, reloading.
+2022-09-21 18:05:17,555 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:05:53,485 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/question.py changed, reloading.
+2022-09-21 18:05:54,172 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:06:16,005 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/question.py changed, reloading.
+2022-09-21 18:06:16,744 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:06:36,274 (WARNING) - django.request - Bad Request: /api/surveys/2/participants/3/answers/
+2022-09-21 18:06:42,801 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/question.py changed, reloading.
+2022-09-21 18:06:43,529 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:06:48,226 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/question.py changed, reloading.
+2022-09-21 18:06:48,839 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:06:56,686 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/answer.py changed, reloading.
+2022-09-21 18:06:57,562 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:07:01,906 (WARNING) - django.request - Bad Request: /api/surveys/2/participants/3/answers/
+2022-09-21 18:09:01,943 (WARNING) - django.request - Bad Request: /api/surveys/2/participants/3/answers/
+2022-09-21 18:10:15,342 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/answer.py changed, reloading.
+2022-09-21 18:10:16,099 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:10:21,851 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/solution.py changed, reloading.
+2022-09-21 18:10:22,606 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:10:26,139 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/models/solution.py changed, reloading.
+2022-09-21 18:10:26,956 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 18:10:33,245 (ERROR) - django.request - Internal Server Error: /api/surveys/2/participants/3/answers/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: survey_answer.description
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/Desktop/hackathon/sandbox/survey/serializers/answer/base_answer_serializer.py", line 13, in create
+    return Answer.objects.create(participant_id=participant_id, **validated_data)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 831, in save
+    self.save_base(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 882, in save_base
+    updated = self._save_table(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 230, in execute
+    return self._record(self.cursor.execute, sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/debug_toolbar/panels/sql/tracking.py", line 154, in _record
+    return method(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: survey_answer.description
+2022-09-21 18:11:17,205 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
