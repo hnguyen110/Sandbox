@@ -1150,3 +1150,200 @@ django.db.utils.IntegrityError: NOT NULL constraint failed: core_profile.user_id
 2022-09-20 22:10:49,402 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
 2022-09-20 22:11:23,242 (WARNING) - django.request - Not Found: /profile/
 2022-09-20 22:11:40,909 (WARNING) - django.request - Not Found: /profile/
+2022-09-21 00:43:16,596 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:43:20,617 (WARNING) - django.request - Not Found: /
+2022-09-21 00:43:20,768 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-21 00:43:36,403 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-21 00:43:40,713 (WARNING) - django.request - Unauthorized: /auth/jwt/create
+2022-09-21 00:45:24,215 (ERROR) - django.request - Internal Server Error: /surveys/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/modify_survey_serializer.py", line 25, in create
+    survey = Survey.objects.create(name=name, description=description, user=self.context['user'])
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/query.py", line 669, in create
+    obj = self.model(**kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/db/models/base.py", line 585, in __init__
+    raise TypeError(
+TypeError: Survey() got unexpected keyword arguments: 'user'
+2022-09-21 00:46:49,822 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/survey/modify_survey_serializer.py changed, reloading.
+2022-09-21 00:46:50,460 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:47:53,953 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:47:54,655 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:48:17,651 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:48:18,238 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:53:20,178 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 00:53:20,824 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:53:27,514 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 00:53:28,243 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:53:31,610 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 00:53:32,301 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:53:34,800 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/question_view_set.py changed, reloading.
+2022-09-21 00:53:35,392 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:53:48,528 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:53:49,127 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:54:04,353 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:54:05,013 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:54:20,214 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:54:20,913 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:54:23,345 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:54:24,131 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:54:47,943 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:54:48,470 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:54:50,817 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:54:51,612 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:54:59,376 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:55:00,019 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:55:07,734 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:55:08,451 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:55:15,204 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:55:15,854 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:55:21,402 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:55:21,953 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:55:50,068 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/question/base_question_serializer.py changed, reloading.
+2022-09-21 00:55:50,746 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:00:22,990 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:00:23,578 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:02:47,183 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:02:47,817 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:03:01,937 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:03:02,692 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:03:21,259 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:03:22,282 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:03:29,140 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:03:29,711 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:03:39,622 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:03:40,482 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:08:43,534 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:08:44,019 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:10:38,708 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:10:39,188 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:10:50,190 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:10:50,983 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:11:05,863 (WARNING) - django.request - Unauthorized: /surveys/1/questions/1/solutions/
+2022-09-21 01:11:11,479 (ERROR) - django.request - Internal Server Error: /surveys/1/questions/1/solutions/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 110, in get_serializer
+    return serializer_class(*args, **kwargs)
+TypeError: 'dict' object is not callable
+2022-09-21 01:12:05,249 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:12:05,933 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:12:06,392 (WARNING) - django.request - Not Found: /surveys/1/questions/1/solutions/
+2022-09-21 01:12:09,516 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/urls.py changed, reloading.
+2022-09-21 01:12:10,324 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:12:10,917 (ERROR) - django.request - Internal Server Error: /surveys/1/questions/1/solutions/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 110, in get_serializer
+    return serializer_class(*args, **kwargs)
+TypeError: 'dict' object is not callable
+2022-09-21 01:12:19,011 (ERROR) - django.request - Internal Server Error: /surveys/1/questions/1/solutions/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 110, in get_serializer
+    return serializer_class(*args, **kwargs)
+TypeError: 'dict' object is not callable
+2022-09-21 01:12:59,955 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/solution/base_solution_serializer.py changed, reloading.
+2022-09-21 01:13:00,657 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:13:01,473 (ERROR) - django.request - Internal Server Error: /surveys/1/questions/1/solutions/
+Traceback (most recent call last):
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/hn/.local/share/virtualenvs/sandbox-vVqYxUPK/lib/python3.10/site-packages/rest_framework/generics.py", line 110, in get_serializer
+    return serializer_class(*args, **kwargs)
+TypeError: 'dict' object is not callable
+2022-09-21 01:14:18,139 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/solution_view_set.py changed, reloading.
+2022-09-21 01:14:18,796 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:15:00,827 (WARNING) - django.request - Not Found: /surveys/1/questions/1/solutions/1/
+2022-09-21 01:15:25,400 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/core/migrations/0001_initial.py changed, reloading.
+2022-09-21 01:15:26,031 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader

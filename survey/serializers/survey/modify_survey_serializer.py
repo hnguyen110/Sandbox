@@ -22,5 +22,5 @@ class ModifySurveySerializer(serializers.Serializer):
         with transaction.atomic():
             name = self.validated_data['name']
             description = self.validated_data['description']
-            survey = Survey.objects.create(name=name, description=description, user=self.context['user'])
+            survey = Survey.objects.create(name=name, description=description, owner=self.context['user'])
             return survey
