@@ -19,7 +19,8 @@ class AnswerViewSet(ModelViewSet):
             .objects \
             .prefetch_related('solution') \
             .prefetch_related('question') \
-            .filter(participant_id=self.kwargs['participant_pk'])
+            .filter(participant_id=self.kwargs['participant_pk']) \
+            .filter(participant__user=self.request.user)
 
     def get_serializer_context(self):
         return {

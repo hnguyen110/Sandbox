@@ -1716,3 +1716,50 @@ django.db.utils.IntegrityError: NOT NULL constraint failed: survey_answer.descri
 2022-09-21 19:19:54,301 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
 2022-09-21 19:22:59,904 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/serializers/answer/base_answer_serializer.py changed, reloading.
 2022-09-21 19:23:00,592 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 19:31:55,997 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 19:32:09,248 (WARNING) - django.request - Not Found: /
+2022-09-21 19:32:18,708 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-21 19:32:51,248 (WARNING) - django.request - Not Found: /
+2022-09-22 01:20:03,252 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:25:52,424 (WARNING) - django.request - Not Found: /
+2022-09-22 01:25:52,566 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-22 01:25:56,480 (WARNING) - django.request - Unauthorized: /profile/
+2022-09-22 01:26:17,424 (WARNING) - django.request - Unauthorized: /api/surveys/2/participants/
+2022-09-22 01:27:04,505 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-22 01:28:04,573 (WARNING) - django.request - Not Found: /api/surveys/2/participants/3/
+2022-09-22 01:28:45,554 (WARNING) - django.request - Not Found: /api/surveys/2/
+2022-09-22 01:31:33,787 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-22 01:31:45,196 (WARNING) - django.request - Unauthorized: /auth/jwt/create
+2022-09-22 01:33:23,546 (WARNING) - django.request - Unauthorized: /api/surveys/4/participants/5/answers/
+2022-09-22 01:33:53,562 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-22 01:37:13,643 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-22 01:37:14,417 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:37:24,399 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-22 01:37:24,907 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:37:56,168 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-22 01:37:56,919 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:38:17,782 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-22 01:38:18,285 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:41:38,002 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/answer_view_set.py changed, reloading.
+2022-09-22 01:41:38,583 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:48:15,038 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:49:16,024 (WARNING) - django.request - Not Found: /api/surveys/2/
+2022-09-22 01:50:31,695 (WARNING) - django.request - Not Found: /api/surveys/2/
+2022-09-22 01:51:29,667 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_participant_view_set.py changed, reloading.
+2022-09-22 01:51:30,391 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:52:26,299 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_participant_view_set.py changed, reloading.
+2022-09-22 01:52:27,013 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:53:05,914 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_participant_view_set.py changed, reloading.
+2022-09-22 01:53:06,479 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 01:53:39,983 (INFO) - django.utils.autoreload - /Users/hn/Desktop/hackathon/sandbox/survey/views/survey_participant_view_set.py changed, reloading.
+2022-09-22 01:53:40,657 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 15:33:31,112 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-22 15:33:33,491 (WARNING) - django.request - Not Found: /
+2022-09-22 15:33:33,694 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-22 15:34:27,995 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create
+2022-09-23 02:24:12,863 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-23 02:24:15,127 (WARNING) - django.request - Not Found: /
+2022-09-23 02:24:15,271 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-23 02:24:21,469 (WARNING) - django.request - Unauthorized: /auth/users/
+2022-09-23 02:24:26,815 (WARNING) - django.request - Unauthorized: /auth/users/
+2022-09-23 02:24:42,191 (WARNING) - django.request - Method Not Allowed: /auth/jwt/create

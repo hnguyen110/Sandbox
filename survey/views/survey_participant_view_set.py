@@ -6,9 +6,15 @@ from survey.serializers.survey_participant.base_survey_participant_serializer im
 
 
 class SurveyParticipantViewSet(ModelViewSet):
-    queryset = SurveyParticipant.objects.all()
     permission_classes = [IsAuthenticated]
     serializer_class = BaseSurveyParticipantSerializer
+
+    def get_queryset(self):
+        return SurveyParticipant \
+            .objects \
+            .prefetch_related('survey__owner') \
+            .filter(survey__owner=self.request.user) \
+            .filter(survey_id=self.kwargs['survey_pk'])
 
     def get_serializer_context(self):
         return {
